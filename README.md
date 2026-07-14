@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Rakesh-R-K/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rakesh-R-K/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rakesh-R-K/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/Rakesh-R-K/Leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Rakesh-R-K/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Rakesh-R-K/Leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Rakesh-R-K/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Rakesh-R-K/Leetcode/tree/master/0066-plus-one) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Rakesh-R-K/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
