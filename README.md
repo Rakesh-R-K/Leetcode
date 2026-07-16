@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rakesh-R-K/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/Rakesh-R-K/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Rakesh-R-K/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Rakesh-R-K/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Rakesh-R-K/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Rakesh-R-K/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -78,9 +79,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Rakesh-R-K/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Rakesh-R-K/Leetcode/tree/master/0066-plus-one) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Rakesh-R-K/Leetcode/tree/master/0136-single-number) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Rakesh-R-K/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
