@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rakesh-R-K/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0036-valid-sudoku](https://github.com/Rakesh-R-K/Leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Rakesh-R-K/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Rakesh-R-K/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Rakesh-R-K/Leetcode/tree/master/0042-trapping-rain-water) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Rakesh-R-K/Leetcode/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/Rakesh-R-K/Leetcode/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/Rakesh-R-K/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rakesh-R-K/Leetcode/tree/master/0217-contains-duplicate) |
 ## Sorting
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Rakesh-R-K/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Rakesh-R-K/Leetcode/tree/master/0048-rotate-image) |
 ## String
 |  |
