@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Rakesh-R-K/Leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Rakesh-R-K/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/Rakesh-R-K/Leetcode/tree/master/0164-maximum-gap) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rakesh-R-K/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Rakesh-R-K/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rakesh-R-K/Leetcode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Rakesh-R-K/Leetcode/tree/master/0228-summary-ranges) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Rakesh-R-K/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Rakesh-R-K/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Rakesh-R-K/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rakesh-R-K/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rakesh-R-K/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rakesh-R-K/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
 |  |
 | ------- |
