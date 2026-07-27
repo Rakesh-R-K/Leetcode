@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Rakesh-R-K/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Rakesh-R-K/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rakesh-R-K/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0367-valid-perfect-square](https://github.com/Rakesh-R-K/Leetcode/tree/master/0367-valid-perfect-square) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Rakesh-R-K/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Rakesh-R-K/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Rakesh-R-K/Leetcode/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/Rakesh-R-K/Leetcode/tree/master/0367-valid-perfect-square) |
 ## Bit Manipulation
 |  |
 | ------- |
