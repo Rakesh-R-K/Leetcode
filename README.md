@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rakesh-R-K/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0031-next-permutation](https://github.com/Rakesh-R-K/Leetcode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/Rakesh-R-K/Leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Rakesh-R-K/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Rakesh-R-K/Leetcode/tree/master/0040-combination-sum-ii) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Rakesh-R-K/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Rakesh-R-K/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Rakesh-R-K/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Rakesh-R-K/Leetcode/tree/master/0088-merge-sorted-array) |
