@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Rakesh-R-K/Leetcode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Rakesh-R-K/Leetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Rakesh-R-K/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0414-third-maximum-number](https://github.com/Rakesh-R-K/Leetcode/tree/master/0414-third-maximum-number) |
 | [0867-transpose-matrix](https://github.com/Rakesh-R-K/Leetcode/tree/master/0867-transpose-matrix) |
 ## Two Pointers
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Rakesh-R-K/Leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Rakesh-R-K/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rakesh-R-K/Leetcode/tree/master/0217-contains-duplicate) |
+| [0414-third-maximum-number](https://github.com/Rakesh-R-K/Leetcode/tree/master/0414-third-maximum-number) |
 ## Counting
 |  |
 | ------- |
