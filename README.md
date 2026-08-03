@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Rakesh-R-K/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Rakesh-R-K/Leetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Rakesh-R-K/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Rakesh-R-K/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Rakesh-R-K/Leetcode/tree/master/0414-third-maximum-number) |
 | [0867-transpose-matrix](https://github.com/Rakesh-R-K/Leetcode/tree/master/0867-transpose-matrix) |
 ## Two Pointers
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rakesh-R-K/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rakesh-R-K/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rakesh-R-K/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Rakesh-R-K/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Rakesh-R-K/Leetcode/tree/master/0367-valid-perfect-square) |
 ## Hash Table
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Rakesh-R-K/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rakesh-R-K/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Rakesh-R-K/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Rakesh-R-K/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Rakesh-R-K/Leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Rakesh-R-K/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rakesh-R-K/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Rakesh-R-K/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Rakesh-R-K/Leetcode/tree/master/0414-third-maximum-number) |
 ## Counting
 |  |
@@ -129,12 +133,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Rakesh-R-K/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Rakesh-R-K/Leetcode/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/Rakesh-R-K/Leetcode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Rakesh-R-K/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Rakesh-R-K/Leetcode/tree/master/0367-valid-perfect-square) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Rakesh-R-K/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Rakesh-R-K/Leetcode/tree/master/0137-single-number-ii) |
+| [0268-missing-number](https://github.com/Rakesh-R-K/Leetcode/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
