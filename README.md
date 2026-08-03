@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rakesh-R-K/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Rakesh-R-K/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rakesh-R-K/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Rakesh-R-K/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Rakesh-R-K/Leetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Rakesh-R-K/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0414-third-maximum-number](https://github.com/Rakesh-R-K/Leetcode/tree/master/0414-third-maximum-number) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Rakesh-R-K/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Rakesh-R-K/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rakesh-R-K/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Rakesh-R-K/Leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Rakesh-R-K/Leetcode/tree/master/0258-add-digits) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Rakesh-R-K/Leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
