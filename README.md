@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Rakesh-R-K/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Rakesh-R-K/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Rakesh-R-K/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0697-degree-of-an-array](https://github.com/Rakesh-R-K/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0867-transpose-matrix](https://github.com/Rakesh-R-K/Leetcode/tree/master/0867-transpose-matrix) |
 ## Two Pointers
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Rakesh-R-K/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rakesh-R-K/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rakesh-R-K/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0697-degree-of-an-array](https://github.com/Rakesh-R-K/Leetcode/tree/master/0697-degree-of-an-array) |
 ## Sorting
 |  |
 | ------- |
