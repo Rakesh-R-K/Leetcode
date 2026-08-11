@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Rakesh-R-K/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/Rakesh-R-K/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0867-transpose-matrix](https://github.com/Rakesh-R-K/Leetcode/tree/master/0867-transpose-matrix) |
+| [0896-monotonic-array](https://github.com/Rakesh-R-K/Leetcode/tree/master/0896-monotonic-array) |
 ## Two Pointers
 |  |
 | ------- |
