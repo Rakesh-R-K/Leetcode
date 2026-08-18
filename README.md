@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Rakesh-R-K/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Rakesh-R-K/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Rakesh-R-K/Leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Rakesh-R-K/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Rakesh-R-K/Leetcode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Rakesh-R-K/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Rakesh-R-K/Leetcode/tree/master/0066-plus-one) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Rakesh-R-K/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Rakesh-R-K/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Rakesh-R-K/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Rakesh-R-K/Leetcode/tree/master/0164-maximum-gap) |
@@ -227,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rakesh-R-K/Leetcode/tree/master/0020-valid-parentheses) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Rakesh-R-K/Leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
