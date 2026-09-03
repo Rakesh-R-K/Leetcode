@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rakesh-R-K/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rakesh-R-K/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Rakesh-R-K/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0509-fibonacci-number](https://github.com/Rakesh-R-K/Leetcode/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Rakesh-R-K/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Rakesh-R-K/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Rakesh-R-K/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0509-fibonacci-number](https://github.com/Rakesh-R-K/Leetcode/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -239,4 +241,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Rakesh-R-K/Leetcode/tree/master/0056-merge-intervals) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Rakesh-R-K/Leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Rakesh-R-K/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
