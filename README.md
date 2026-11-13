@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Rakesh-R-K/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Rakesh-R-K/Leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Rakesh-R-K/Leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Rakesh-R-K/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Rakesh-R-K/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Rakesh-R-K/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Rakesh-R-K/Leetcode/tree/master/0055-jump-game) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Rakesh-R-K/Leetcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Rakesh-R-K/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Rakesh-R-K/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Rakesh-R-K/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Rakesh-R-K/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Rakesh-R-K/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Rakesh-R-K/Leetcode/tree/master/0169-majority-element) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Rakesh-R-K/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Rakesh-R-K/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Rakesh-R-K/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Rakesh-R-K/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Rakesh-R-K/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Rakesh-R-K/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Rakesh-R-K/Leetcode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Rakesh-R-K/Leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Rakesh-R-K/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Rakesh-R-K/Leetcode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Rakesh-R-K/Leetcode/tree/master/0179-largest-number) |
