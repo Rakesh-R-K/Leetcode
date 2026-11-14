@@ -1,24 +1,35 @@
 class Solution {
 public:
-     int value(char c) {
-        if (c == 'I') return 1;
-        if (c == 'V') return 5;
-        if (c == 'X') return 10;
-        if (c == 'L') return 50;
-        if (c == 'C') return 100;
-        if (c == 'D') return 500;
-        return 1000; 
-    } 
     int romanToInt(string s) {
-        int num = 0;
-        for(int i = 0 ; i < s.size(); i++){
-            int current = value(s[i]);
-            if((i+1) < s.size() && current < value(s[i+1])){
-                num -= current;
-            }else{
-                num += current;
+        unordered_map<string, int> values = {
+            {"I", 1},
+            {"V", 5},
+            {"X", 10},
+            {"L", 50},
+            {"C", 100},
+            {"D", 500},
+            {"M", 1000},
+            {"IV", 4},
+            {"IX", 9},
+            {"XL", 40},
+            {"XC", 90},
+            {"CD", 400},
+            {"CM", 900}
+        };
+        int sum = 0, i = 0;
+        while(i < s.length()){
+            if(i + 1< s.length()){
+                string two = s.substr(i, 2);
+                if(values.find(two) != values.end()){
+                    sum += values[two];
+                    i += 2;
+                    continue;
+                }
             }
+        string one = s.substr(i, 1);
+        sum += values[one];
+        i++;
         }
-        return num;
+    return sum;
     }
 };
