@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Rakesh-R-K/Leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Rakesh-R-K/Leetcode/tree/master/0075-sort-colors) |
 ## Recursion
 |  |
 | ------- |
@@ -304,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Rakesh-R-K/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Rakesh-R-K/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
