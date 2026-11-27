@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/Rakesh-R-K/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0867-transpose-matrix](https://github.com/Rakesh-R-K/Leetcode/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/Rakesh-R-K/Leetcode/tree/master/0896-monotonic-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rakesh-R-K/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rakesh-R-K/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rakesh-R-K/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0697-degree-of-an-array](https://github.com/Rakesh-R-K/Leetcode/tree/master/0697-degree-of-an-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rakesh-R-K/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
 |  |
 | ------- |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Rakesh-R-K/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Rakesh-R-K/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rakesh-R-K/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Bracket Sequences
 |  |
 | ------- |
